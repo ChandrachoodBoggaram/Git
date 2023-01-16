@@ -19,3 +19,5 @@ git diff :- This is the command to show the difference between previous file and
 git merge <branch-name>:- to merge a branch into another branch.
 git stash :- To store the unfinished changes into a stack and work on them later.
 git stash pop :- will pop the top stashed chnages.
+git pull :- command to update you local repo with respect to your remote repo.
+git fetch :- It will show you the changes but wont merge them.
