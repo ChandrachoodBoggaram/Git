@@ -16,3 +16,6 @@ git clone <git-repo-url> :- will clone the remote repo to local.
 git rm <file-name> :- will delete the file.
 git branch --delete <branch-name> :- wil delete the branch.
 git diff :- This is the command to show the difference between previous file and modfied file.
+git merge <branch-name>:- to merge a branch into another branch.
+git stash :- To store the unfinished changes into a stack and work on them later.
+git stash pop :- will pop the top stashed chnages.
