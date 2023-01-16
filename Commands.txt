@@ -3,3 +3,5 @@ git status :- will let you know the files which are to be commited.
 git add :- Command used to add the files to staging area.
 git commit :- command used to commit the files to local repository.
 git push :- command used to push to remote repository.
+git checkout -b branch :- will create a new branch and checkouts to that.
+
