@@ -16,4 +16,3 @@ git clone <git-repo-url> :- will clone the remote repo to local.
 git rm <file-name> :- will delete the file.
 git branch --delete <branch-name> :- wil delete the branch.
 git diff :- This is the command to show the difference between previous file and modfied file.
-This is in branch chandu boggaram from vijayawada.
