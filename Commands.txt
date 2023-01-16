@@ -1,0 +1,5 @@
+git init :- Initializes a empty git repository this means versioning is activated for this folder.
+git status :- will let you know the files which are to be commited.
+git add :- Command used to add the files to staging area.
+git commit :- command used to commit the files to local repository.
+git push :- command used to push to remote repository.
