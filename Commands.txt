@@ -4,4 +4,9 @@ git add :- Command used to add the files to staging area.
 git commit :- command used to commit the files to local repository.
 git push :- command used to push to remote repository.
 git checkout -b branch :- will create a new branch and checkouts to that.
+git restore file-name :- will bring back the file. 
+git restore --staged file-name :- will restore the files to untracked files if they are mistakenly added
+                                  to staging area.
+git log :- will show all the commits happened so far.
+git revert commitId :- will revert what happened in that commit.
 
