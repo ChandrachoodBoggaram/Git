@@ -21,3 +21,4 @@ git stash :- To store the unfinished changes into a stack and work on them later
 git stash pop :- will pop the top stashed chnages.
 git pull :- command to update you local repo with respect to your remote repo.
 git fetch :- It will show you the changes but wont merge them.
+git rebase :- It brings all the changes on the master to the feature branch and also protects the commit history.
